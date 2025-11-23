@@ -1,1 +1,2 @@
 V	250211115836Z		01	unknown	/C=JP/ST=Hokkaido/O=interCA/OU=interCA/CN=Inter CA
+V	21251030110841Z		02	unknown	/C=JP/ST=Tokyo/O=interCA/OU=interCA/CN=Inter CA
